@@ -1,0 +1,6 @@
+While we continue to make progress, August proved to be a challenging month for availability. 
+You can read more about these incidents in a blog post we published last month. 
+We are aggressively investing in both architectural improvements and moving to Azure, which will give us more capacity. 
+Meanwhile, we continue to see significant growth on our platform. We are prioritizing the most impactful work while minimizing risk, 
+but as these incidents in August show, we cannot completely eliminate risk.
+
