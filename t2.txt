@@ -1,0 +1,7 @@
+We also improved monitoring and telemetry. Pull request monitoring now measures merge, review, and comment failures independently, where high read volume could otherwise mask a failing write path. On August 21, automated high impact incident detection began combining customer-support signals with service telemetry. API monitoring was also recalibrated and validated over 30 days, reducing noise and improving signal quality. These changes improve detection and response.
+
+The next month of work includes moving the next database primaries, continuing to migrate services and corresponding traffic to Azure, chipping away at database health particularly on shared-databases, adding more automation around capacity management and auto-scaling, and extending dependency-failure handling across more of the pull request experience.
+
+This principle continues to guide us: availability, then capacity, then features.
+
+
