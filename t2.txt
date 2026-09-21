@@ -5,3 +5,9 @@ The next month of work includes moving the next database primaries, continuing t
 This principle continues to guide us: availability, then capacity, then features.
 
 
+Impact Summary
+Duration: approximately 9 hours
+Services impacted: GitHub Actions (GitHub-hosted and self-hosted runners), plus actions-dependent features, including Copilot coding agent, Copilot code review, GitHub Pages builds, Dependabot, and repository migrations.
+Customer impact: At least 74 organizations saw GitHub Actions workflows fail to start, fail partway through, or sit queued far longer than usual, measured against each organization’s own normal baseline. Customers during the impact window may have seen workflow runs failing or stuck in a queued state, some actions API requests returning errors, and in some cases unexpected rate limiting in your workflows. In
+
+
