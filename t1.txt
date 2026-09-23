@@ -24,7 +24,4 @@ sadfsdfsdf
 
 eeeeeeeeeeeeeeeeeee
 
-Rebase required
-
-stash command
-2222
+rebase command added
